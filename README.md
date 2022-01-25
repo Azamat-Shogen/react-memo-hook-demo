@@ -1,2 +1,2 @@
-# react-memo-hook-demo
+# class-based-pureComponent-demo
 Created with CodeSandbox
